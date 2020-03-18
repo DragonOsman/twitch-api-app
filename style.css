@@ -1,0 +1,59 @@
+h1 {
+  font-family: Helvetica-Neue, Aerial, sans-serif;
+  color: #ffffff;
+}
+
+body {
+  background-color: #000000;
+}
+
+#new-stream {
+  background-color: #ddeeff;
+  margin-bottom: 15px;
+  padding: 5px 5px 5px 5px;
+  font-family: Helvetica-Neue, Aerial, sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  border-radius: 11px;
+}
+
+#all {
+  background-color: #90dd91;
+}
+
+#offline {
+  background-color: #f00c1f;
+}
+
+#online {
+  background-color: #90ee90;
+}
+
+#online-streams {
+  margin-top: 10px;
+}
+
+#offline-streams {
+  padding-top: 17px;
+  padding-bottom: 15px;
+}
+
+p {
+  padding-left: 5px;
+}
+
+.thumbnail {
+  margin-left: 5px;
+  margin-top: 5px;
+  width: 50%;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+}
